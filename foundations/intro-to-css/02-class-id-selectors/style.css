@@ -2,7 +2,7 @@
 .cat,
 .mouse{
   background-color: rgb(245, 162, 161);
-  font-family: Verdana, DejaVu Sans, sans-serif;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #roll{
