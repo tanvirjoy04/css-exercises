@@ -1,21 +1,21 @@
-.cow,
-.cat,
-.mouse{
+.one,
+.three,
+.five{
   background-color: rgb(245, 162, 161);
   font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#roll{
+#two{
   color: #0000FF;
   font-size: 36px;
 }
 
-.cat,
-#digit{
+.three,
+#four{
   font-size: 24px;
 }
 
-#digit{
+#four{
   background-color: hsl(117, 88%, 78%);
   font-weight: bold;
 }
